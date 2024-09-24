@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.Container{
+    padding: 20px;
+    margin: 10px;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    padding: 20px;
+
+}
+.header-one__title{
+text-align: center;
+
+}
+
+
+.header-one__desc{
+    text-align: center;
+    color: gray;
+    margin-top: 10px;
+
+}
+
+li,ul{
+display: inline;
+}
+
+li:hover{
+
+    color: white;
+    cursor: pointer;
+}
+
+
+.searchbar{
+    padding: 25px;
+    text-align: center;
+    
+}
+.search__desc{
+    width: 600px;
+    height: 35px;
+    padding: 5px;
+}
+
+
+
+.product{
+    text-align: center;
+    border-color: black;
+    
+   
+}
+
+.product-box__one{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 200px;
+    margin: 5px;
+    vertical-align: top;
+    transition: 1ms;
+    box-shadow: 4px 7px 7px 0px;
+    cursor: pointer;
+}
+
+
+img{
+    width: 100%;
+    display: block;
+
+}
+
+img:hover{
+transform: scale(1.01);
+
+}
+
+.product__button{
+background-color: black;
+color: white;
+margin: 5px;
+padding: 5px;
+cursor: pointer;
+}
+
+.product__button:hover{
+    background-color: yellow;
+    color: black;
+    border-color: orangered 2px;
+}
+
+
+
+
+
+.contact-us,.contact-us__desc,.contact-us__title{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.contact-us__title{
+ margin-top: 10px;
+}
+
+.contact-us__form,.contact-us__table{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.contact-us__input{
+
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.contact-us__submit{
+    background-color: orange;
+    color: black;
+margin-top: 10px;
+margin-bottom: 10px;
+    width: 400px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.contact-us__submit:hover{
+
+    background-color: yellow;
+    color: black;
+    border-color: rgb(58, 58, 17);
+    border-width: 2px;
+}
