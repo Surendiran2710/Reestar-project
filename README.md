@@ -15,9 +15,9 @@ Key Features:
    
 The webpage also includes a basic contact form where users can enter:
 
-*Name
-*Age
-E*mail
+* Name
+* Age
+* Email
 The form allows users to easily reach out for inquiries or additional information.
 
 3. Search Bar:
