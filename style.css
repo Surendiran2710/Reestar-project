@@ -64,7 +64,6 @@ li:hover{
     border-style: solid;
     display: inline-block;
     width: 200px;
-    height: 500px;
     margin: 5px;
     vertical-align: top;
     transition: 1ms;
