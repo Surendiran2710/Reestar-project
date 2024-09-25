@@ -64,7 +64,7 @@ li:hover{
     border-style: solid;
     display: inline-block;
     width: 200px;
-    height: 440px;
+    height: 500px;
     margin: 5px;
     vertical-align: top;
     transition: 1ms;
@@ -87,7 +87,7 @@ transform: scale(1.01);
 .product__button{
 background-color: black;
 color: white;
-margin: 5px;
+margin: 2px;
 padding: 5px;
 cursor: pointer;
 }
